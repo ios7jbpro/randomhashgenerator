@@ -1,8 +1,10 @@
 [
   {
-    "hash": "lowercase"
+    "hash": "lowercase",
+    "link": "https://raw.githubusercontent.com/ios7jbpro/randomhashgenerator/main/lowercase.json"
   },
   {
-    "hash": "upcase"
+    "hash": "upcase",
+    "link": "https://raw.githubusercontent.com/ios7jbpro/randomhashgenerator/main/upcase.json"
   }
 ]
